@@ -1,6 +1,6 @@
+> AI 개발실무 과제 황윤석(202530377)
 > 과목 : AI 개발 실무  
-> 주제 : TF‑IDF + Cosine Similarity → **레벤슈타인 거리 기반** 챗봇으로 변경  
-> 학습 데이터 : `ChatbotData.csv` (14주차 실습 자료)
+> 주제 : TF‑IDF + Cosine Similarity → 레벤슈타인 거리 기반 챗봇으로 변경  
 
 1. 파일 구성
 
